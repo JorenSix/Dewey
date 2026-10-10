@@ -2,11 +2,25 @@
 
 **Dewey** is a native macOS menu-bar fruit fly. Click the menu-bar icon to release it. It flies around your screen, escapes when the mouse pointer looms at it, and perches on screen edges, on top of the Dock, and on application windows. There it walks, grooms, and takes off again when it gets restless.
 
+<p align="center">
+  <a href="etc/dewey.mp4">
+    <img src="etc/dewey-preview.jpg" alt="Watch Dewey and friends exploring the desktop" width="800">
+  </a>
+  <br>
+  <em>Dewey and friends exploring the desktop and perching on windows. Click to watch (46 seconds).</em>
+</p>
+
 Its behaviour runs on a **reduced circuit from the Janelia FlyEM male CNS connectome (v1.0)**:
 - 1,339 cell-type nodes and 30,655 signed, weighted edges, simulated as a rate network at 60 Hz.
 - Pointer looming drives LPLC2/LC4, which drive the giant fiber (DNp01) and the escape descending neurons, which in turn drive takeoff.
 - Nearby screen edges drive visual landing inputs and the landing DNs (DNp07/DNp10).
 - Idle time drives the grooming DNs.
+
+## Download
+
+[Download Dewey for macOS](https://github.com/JorenSix/Dewey/releases/latest) (Apple silicon, macOS 14 or later).
+
+Open the DMG and drag Dewey into Applications, then launch it from there. Dewey appears in the menu bar. The app is ad-hoc signed and is not notarized by Apple, so macOS may require you to allow it in System Settings → Privacy & Security after the first launch attempt.
 
 ## Menu
 
