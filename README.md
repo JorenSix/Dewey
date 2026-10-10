@@ -22,6 +22,13 @@ Its behaviour runs on a **reduced circuit from the Janelia FlyEM male CNS connec
 
 Open the DMG and drag Dewey into Applications, then launch it from there. Dewey appears in the menu bar. The app is ad-hoc signed and is not notarized by Apple, so macOS may require you to allow it in System Settings → Privacy & Security after the first launch attempt.
 
+Alternatively, after copying Dewey into Applications, run this in Terminal to remove its quarantine flag and launch it:
+
+```sh
+xattr -dr com.apple.quarantine "/Applications/Dewey.app"
+open "/Applications/Dewey.app"
+```
+
 ## Menu
 
 Click the fly icon in the menu bar to open the menu:
