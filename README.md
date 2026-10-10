@@ -4,9 +4,9 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/46e751b7-9b7b-46f0-8f7c-13e904e6f8e2
+https://github.com/user-attachments/assets/4d364fd8-83cd-4a01-b3e9-cf91a9bd4522
 
-<em>Dewey and friends exploring the desktop and perching on windows (46 seconds).</em>
+<em>Dewey and friends exploring the desktop and perching on windows (35 seconds).</em>
 
 </div>
 
