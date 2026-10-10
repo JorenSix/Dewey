@@ -1,0 +1,330 @@
+{
+ "seeds": {
+  "LPLC2": [
+   "LPLC2"
+  ],
+  "LC4": [
+   "LC4"
+  ],
+  "LPLC1": [
+   "LPLC1"
+  ],
+  "LC6": [
+   "LC6"
+  ],
+  "DNp01": [
+   "DNp01"
+  ],
+  "DNp02": [
+   "DNp02"
+  ],
+  "DNp04": [
+   "DNp04"
+  ],
+  "DNp06": [
+   "DNp06"
+  ],
+  "DNp11": [
+   "DNp11"
+  ],
+  "DNp07": [
+   "DNp07"
+  ],
+  "DNp10": [
+   "DNp10"
+  ],
+  "DNa01": [
+   "DNa01"
+  ],
+  "DNa02": [
+   "DNa02"
+  ],
+  "DNb05": [
+   "DNb05"
+  ],
+  "DNb06": [
+   "DNb06"
+  ],
+  "DNg100": [
+   "DNg100"
+  ],
+  "DNg97": [
+   "DNg97"
+  ],
+  "MDN": [
+   "MDN"
+  ],
+  "DNa_MDN": [],
+  "DNp09": [
+   "DNp09"
+  ],
+  "DNg11": [
+   "DNg11"
+  ],
+  "DNg12": [
+   "DNg12_a",
+   "DNg12_b",
+   "DNg12_c",
+   "DNg12_d",
+   "DNg12_e",
+   "DNg12_f",
+   "DNg12_g",
+   "DNg12_h"
+  ],
+  "DNg12_*": [
+   "DNg12_a",
+   "DNg12_b",
+   "DNg12_c",
+   "DNg12_d",
+   "DNg12_e",
+   "DNg12_f",
+   "DNg12_g",
+   "DNg12_h"
+  ],
+  "JO-*": [
+   "JO-A-unclear",
+   "JO-A1",
+   "JO-A2",
+   "JO-A3",
+   "JO-A4",
+   "JO-B-unclear",
+   "JO-B1_a",
+   "JO-B1_b",
+   "JO-B1_c",
+   "JO-B2",
+   "JO-B3",
+   "JO-B4_a",
+   "JO-B4_b",
+   "JO-CA1",
+   "JO-CA2",
+   "JO-CL",
+   "JO-CM",
+   "JO-DA",
+   "JO-DP",
+   "JO-ED1",
+   "JO-ED2_a",
+   "JO-ED2_b",
+   "JO-ED2_c",
+   "JO-EV1",
+   "JO-EV2",
+   "JO-EV3",
+   "JO-EV4",
+   "JO-EV5",
+   "JO-EV6",
+   "JO-FD1",
+   "JO-FD2",
+   "JO-FV",
+   "JO-mz",
+   "JO-unclear"
+  ]
+ },
+ "not_found": [
+  "DNa_MDN"
+ ],
+ "substitutions": {
+  "DNg12": [
+   "DNg12_a",
+   "DNg12_b",
+   "DNg12_c",
+   "DNg12_d",
+   "DNg12_e",
+   "DNg12_f",
+   "DNg12_g",
+   "DNg12_h"
+  ]
+ },
+ "mechano_bristle_types": [
+  "SNta02",
+  "SNta02,SNta09",
+  "SNta03",
+  "SNta04",
+  "SNta04,SNta11",
+  "SNta05",
+  "SNta06",
+  "SNta07",
+  "SNta10",
+  "SNta11",
+  "SNta11,SNta14",
+  "SNta12",
+  "SNta13",
+  "SNta14",
+  "SNta18",
+  "SNta19",
+  "SNta19,SNta37",
+  "SNta20",
+  "SNta20,SNta29",
+  "SNta21",
+  "SNta21,SNta38",
+  "SNta22",
+  "SNta22,SNta23",
+  "SNta22,SNta33",
+  "SNta23",
+  "SNta25",
+  "SNta25,SNta30",
+  "SNta26",
+  "SNta27",
+  "SNta27,SNta28",
+  "SNta28",
+  "SNta28,SNta29",
+  "SNta28,SNta44",
+  "SNta29",
+  "SNta30",
+  "SNta31",
+  "SNta31,SNta34",
+  "SNta32",
+  "SNta33",
+  "SNta34",
+  "SNta35",
+  "SNta36",
+  "SNta37",
+  "SNta38",
+  "SNta39",
+  "SNta40",
+  "SNta41",
+  "SNta42",
+  "SNta43",
+  "SNta44",
+  "SNta44,SNta45",
+  "SNta45",
+  "SNxx31"
+ ],
+ "visual_landing": {
+  "LPLC4": 2361,
+  "LoVP18": 870,
+  "LLPC3": 414,
+  "LLPC2": 278
+ },
+ "bridges_loom_gf": [
+  [
+   "SAD064_L",
+   667
+  ],
+  [
+   "PVLP122_R",
+   638
+  ],
+  [
+   "PVLP122_L",
+   578
+  ],
+  [
+   "SAD064_R",
+   548
+  ],
+  [
+   "PVLP010_L",
+   414
+  ],
+  [
+   "PVLP151_R",
+   339
+  ],
+  [
+   "PVLP123_L",
+   330
+  ],
+  [
+   "PVLP010_R",
+   297
+  ],
+  [
+   "PVLP123_R",
+   290
+  ],
+  [
+   "DNpe042_L",
+   279
+  ],
+  [
+   "PVLP151_L",
+   264
+  ],
+  [
+   "GNG300_R",
+   258
+  ]
+ ],
+ "bridges_gf_mn": [
+  [
+   "DNp11_R",
+   99
+  ],
+  [
+   "GFC2_L",
+   72
+  ],
+  [
+   "GFC2_R",
+   72
+  ],
+  [
+   "GFC4_L",
+   67
+  ],
+  [
+   "GFC3_R",
+   55
+  ],
+  [
+   "IN06B008_L",
+   52
+  ],
+  [
+   "IN06B008_R",
+   49
+  ],
+  [
+   "AN18B053_L",
+   49
+  ],
+  [
+   "IN18B034_R",
+   46
+  ],
+  [
+   "GFC4_R",
+   45
+  ],
+  [
+   "IN11A001_R",
+   43
+  ],
+  [
+   "GFC3_L",
+   42
+  ]
+ ],
+ "nodes": 1339,
+ "edges": 30655,
+ "roles": {
+  "mn": 161,
+  "inter": 776,
+  "an": 71,
+  "sensor": 184,
+  "dn": 147
+ },
+ "group_sizes": {
+  "loom": 8,
+  "mechano": 159,
+  "visual_landing": 8,
+  "gf": 2,
+  "escape_dn": 8,
+  "landing_dn": 4,
+  "steer_dn": 8,
+  "walk_dn": 4,
+  "backward_dn": 2,
+  "freeze_dn": 2,
+  "groom_dn": 18,
+  "wing_mn": 48,
+  "haltere_mn": 14,
+  "leg_mn": 76
+ },
+ "nt_signed_plus_one_other": {
+  "unknown": 140,
+  "octopamine": 1,
+  "dopamine": 1,
+  "histamine": 7,
+  "serotonin": 2
+ },
+ "bytes": 675979
+}

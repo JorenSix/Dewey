@@ -1,0 +1,81 @@
+# Dewey materials (Kd sRGB); texture maps are optional extras
+newmtl body
+Kd 0.580 0.400 0.220
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl stripe
+Kd 0.360 0.230 0.120
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl pleura
+Kd 0.620 0.450 0.270
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl lower
+Kd 0.840 0.700 0.480
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl frons
+Kd 0.800 0.500 0.220
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl tergum
+Kd 0.800 0.630 0.340
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl tergite
+Kd 0.200 0.120 0.070
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl leg
+Kd 0.760 0.570 0.330
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl dark
+Kd 0.090 0.060 0.040
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl eye
+Kd 0.740 0.050 0.030
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+map_Kd ommatidium.png
+
+newmtl ocelli
+Kd 0.550 0.300 0.080
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl vein
+Kd 0.450 0.320 0.180
+d 1.00
+Ks 0.25 0.25 0.25
+Ns 40
+
+newmtl wing
+Kd 0.860 0.880 0.900
+d 0.22
+Ks 0.25 0.25 0.25
+Ns 40
+map_Kd wing_albedo.png
+map_d wing_albedo.png

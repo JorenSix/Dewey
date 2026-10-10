@@ -1,0 +1,17 @@
+FlyEM male CNS connectome v1.0 (HHMI Janelia Research Campus / FlyEM and collaborators)
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Citation:
+Berg S, Beckett I, Costa M, Schlegel P, ... Rubin G, Jefferis G.
+Sexual dimorphism in the complete connectome of the Drosophila male central nervous system.
+bioRxiv 2025. doi:10.1101/2025.10.09.680999
+Data: https://male-cns.janelia.org
+
+Derived material in this repository:
+app/Sources/FlyApp/Resources/circuit.json is ADAPTED from the flat-connectome files
+(body annotations, neurotransmitter predictions, connectome weights; minconf 0.5) by
+pipeline/build_circuit.py. Changes: a selection of behaviour-relevant cell types and
+their strongest one-hop partners, neurons collapsed to (cell type, side) nodes, and
+weights converted to signed fractions of each node's total input. Exact source files
+and SHA-256 hashes: pipeline/data_manifest.json. The raw files are not redistributed.

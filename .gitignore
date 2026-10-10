@@ -1,0 +1,28 @@
+data/
+.build*/
+*.app
+.venv/
+__pycache__/
+.DS_Store
+renders/
+build/
+
+# Generated exports, packages and local caches
+*.usdz
+*.dmg
+*.zip
+*.blend
+*.blend1
+*.log
+*.pyc
+.pytest_cache/
+.swiftpm/
+
+# Local working notes and configuration
+/TASKS*.md
+.env
+.env.*
+*.pem
+*.key
+.codex/
+.agents/
